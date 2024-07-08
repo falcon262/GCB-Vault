@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "57125291196",
+    "firebase_url": "https://vaultrun-default-rtdb.firebaseio.com",
+    "project_id": "vaultrun",
+    "storage_bucket": "vaultrun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57125291196:android:fefff20a1195ae2f38bcb9",
+        "android_client_info": {
+          "package_name": "com.Falcon.VaultRun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFCrFuBQXeHOh2n2fZt2jV_oDuV2UDjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
